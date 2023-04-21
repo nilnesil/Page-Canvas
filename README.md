@@ -16,4 +16,8 @@ In order to make the "canvas" htmlelement have the conception of page and layer(
 
 1. [move and rotate](/examples/1.html)
 
-![1.html.gif](/source/gif/1.html.gif)
+    ![1.html.gif](/source/gif/1.html.gif)
+
+2. [click and touch event](/examples/2.html)
+
+    ![2.html.gif](/source/gif/2.html.gif)
